@@ -2,6 +2,7 @@
   text-align: center;
 }
 
+/* https: //api.openweathermap.org/data/2.5/weather?q=SAS%20Nagar&appid=dc32c108c8ed90c085ddc7776790b23f */
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -32,6 +33,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

@@ -1,0 +1,1 @@
+api.openweathermap.org / data / 2.5 / forecast / daily ? lat = 31°04′18.48  & lon=75°24′16.92& cnt=7& appid=5d337259a03c4f16924e8b8d8c764ce4

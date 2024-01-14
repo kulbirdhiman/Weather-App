@@ -1,9 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
 import Main from './compenets/Main'
+// import Weather from './compenets/Weather';
 function App() {
   return (
     <Main />
+    // <Weather />
   );
 }
 

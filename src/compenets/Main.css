@@ -25,9 +25,10 @@ h1 {
 
 section {
     position: relative;
-    background: url('../surface-455124_1280.jpg') no-repeat center;
+    height: 100dvh;
     background-size: cover;
     backdrop-filter: blur(20px);
+
 }
 
 .wrap {
@@ -61,11 +62,16 @@ section {
     margin: 20px auto;
 }
 
-.sm-card {
-    background-color: rgba(0, 0, 0, 0.5);
-    width: 120px;
-    /* height: 2.2rem; */
-    border-radius: 10px;
+.clear {
+    background: url('../img/pexels-photomix-company-96622.jpg') center;
+}
+
+.cloud {
+    background: url('../img//cloud.jpg')center;
+}
+
+.def {
+    background: url("../") center;
 }
 
 @media screen and (max-width: 580px) {
